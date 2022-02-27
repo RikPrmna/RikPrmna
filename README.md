@@ -35,6 +35,7 @@ var rik = `
 
 Name               : Erik
 Age                : 18
+Gender             : Male
 From               : indonesian 🇮🇩
 Currently learning : Js, html, css
 `
