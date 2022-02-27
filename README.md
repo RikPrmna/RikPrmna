@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">HELLO <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" >
 
-<!--
-**Shuichi126/Shuichi126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img align="center" height="auto" src="https://github.com/Shuichi126/profile/blob/main/img/pict.jpg"/>
+</P>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------
+
+### :page_with_curl: I'm learning javascript, html and css
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572b6" />
+</p>
+
+---------
+
+### My Statistic
+![github stats](https://github-readme-stats.vercel.app/api?username=Shuichi126&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuichi126&layout=compact&theme=nightowl)
+
+---------
+
+### My Bio
+```js
+
+var rik = `
+
+Name               : Erik
+Age                : 18
+From               : indonesian 🇮🇩
+Currently learning : Js, html, css
+`
+return rik
+```
