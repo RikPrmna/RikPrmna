@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img align="center" height="auto" src="https://github.com/Shuichi126/profile/blob/main/img/pict.jpg"/>
+<img align="center" height="auto" src="https://github.com/Shuichi126/Shuichi126/blob/main/img/img.jpg"/>
 </P>
 
 ---------
