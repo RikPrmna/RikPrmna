@@ -23,17 +23,19 @@
 </p>
 
 ---------
-
+<details>
 ### My Statistic
   <p align="center">
   <a href="[https://github.com/RikPrmna"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl" /></a>
 </p>
   
   <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
+  <a href="[https://github.com/RikPrmna"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
 </p>
 
 ---------
+
+</details
 
 ### My Bio
 ```js
