@@ -25,8 +25,13 @@
 ---------
 
 ### My Statistic
-![github stats](https://github-readme-stats.vercel.app/api?username=Shuichi126&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuichi126&layout=compact&theme=nightowl)
+  <p align="center">
+  <a href="[https://github.com/RikPrmna"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl" /></a>
+</p>
+  
+  <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
+</p>
 
 ---------
 
