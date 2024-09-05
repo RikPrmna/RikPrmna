@@ -23,7 +23,7 @@
 </p>
 
 ---------
-<details>
+
 ### My Statistic
   <p align="center">
   <a href="[https://github.com/RikPrmna"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl" /></a>
@@ -34,8 +34,6 @@
 </p>
 
 ---------
-
-</details
 
 ### My Bio
 ```js
