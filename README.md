@@ -38,13 +38,13 @@
 ### My Bio
 ```js
 
-var rik = `
+var rik = 
 
 Name               : Erik
 Age                : 21
 Gender             : Male
 From               : indonesian 🇮🇩
 Currently learning : Js, html, css
-`
+
 return rik
 ```
