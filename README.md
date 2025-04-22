@@ -62,12 +62,12 @@
 
 ```js
 const rik = {
-  name: "Erik",
+  name: Erik,
   age: 21,
-  gender: "Male",
-  from: "Indonesia 🇮🇩",
+  gender: Male,
+  from: Indonesia,
   currently_learning: ["JavaScript", "HTML", "CSS"]
 }
-
-export default rik '''
+```
+export default rik 
 
