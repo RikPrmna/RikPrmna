@@ -69,5 +69,5 @@ const rik = {
   currently_learning: ["JavaScript", "HTML", "CSS"]
 }
 
-export default rik
+export default rik '''
 
