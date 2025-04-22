@@ -37,7 +37,7 @@
 
 ### 📌 Featured Projects
 
-- 🎮 [SOS Game](https://github.com/RikPrmna/SOS-Game) — Simple HTML/CSS/JS game project
+- 🎮 [TicTacToe Game](https://github.com/RikPrmna/TicTacToe) — Simple HTML/CSS/JS game project
 - 📲 [TikTok Downloader](https://github.com/RikPrmna/TikTokDownloader) — Download TikTok videos with history & auto-download
 
 ---
