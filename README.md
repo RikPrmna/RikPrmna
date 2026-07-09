@@ -1,52 +1,63 @@
 <h1 align="center">
-  Hi there, I'm Erick! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35px"> PLAYER ONE: ERICK HAS ENTERED THE GAME <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35px">
 </h1>
 
 <p align="center">
-  <em>A passionate developer crafting digital experiences.</em>
+  <img src="https://github.com/Shuichi126/Shuichi126/blob/main/img/img.jpg" alt="Avatar" width="150" style="border-radius: 50%; border: 4px solid #8b0000;"/>
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://wa.me/6282130301023">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/Connect-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.instagram.com/itz.me.erick126/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Connect-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:erikpermana126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Connect-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Shuichi126/Shuichi126/blob/main/img/img.jpg" alt="Profile Image" width="250" style="border-radius: 50%;"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🛡️ Player Stats
 
-- 🔭 I’m currently working on building awesome projects.
-- 🌱 I’m currently learning modern web technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- ⚡ Fun fact: I love exploring new tech and solving puzzles!
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <b>Class</b><br>
+      Web Developer
+    </td>
+    <td align="center" width="200">
+      <b>Level</b><br>
+      20
+    </td>
+    <td align="center" width="200">
+      <b>Base</b><br>
+      Indonesia
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack
+### ⚔️ Current Quests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+- 📖 Exploring the documentation of modern frameworks.
+- 🗡️ Hunting bugs and optimizing code.
+- 🤝 Looking for a party to conquer open-source projects.
+
+### 🎒 Inventory (Tech Stack)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-HP_Potion-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Mana_Potion-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-Main_Weapon-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-Magic_Scroll-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### 📊 GitHub Stats
+### 🏆 Achievements Unlocked
 
 <p align="center">
   <a href="https://github.com/Shuichi126">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shuichi126&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shuichi126&show_icons=true&theme=radical&hide_border=true&title_color=ff0000" alt="GitHub Stats" />
   </a>
 </p>
